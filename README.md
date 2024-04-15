@@ -13,6 +13,6 @@
             * Wireless AI
             * Convex Optimization
 
-## Publications [IEEE](https://ieeexplore.ieee.org/author/37086292692)  
+## Publications in [IEEE](https://ieeexplore.ieee.org/author/37086292692)  
             
 
