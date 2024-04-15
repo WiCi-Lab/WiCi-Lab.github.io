@@ -14,6 +14,6 @@
 
 ## Publications in [IEEE](https://phy.ccnu.edu.cn/https://ieeexplore.ieee.org/author/37086292692)  
             
-## Recruitment [CCNU](https://phy.ccnu.edu.cn)  
+## Recruitment in [CCNU](https://phy.ccnu.edu.cn)  
 
            Looking for competitive master/Ph.D. students, please refer to the CCNU Introduciton for more details.
