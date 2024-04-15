@@ -15,6 +15,7 @@ Ji Wang [M'15] (jiwang@ccnu.edu.cn) received the B.S. degree from the School of 
 * Convex Optimization
 
 ## Publications in [IEEE](https://phy.ccnu.edu.cn/https://ieeexplore.ieee.org/author/37086292692)  
+[1] J. Wang, X. Ma, Z. Chen, L. Zheng, W. Xie and X. Wang, "Secrecy Wireless Information and Power Transfer in Ultra-Dense Cloud Radio Access Networks," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3360147. [IEEE](https://ieeexplore.ieee.org/document/10423598)  [Arxiv](https://phy.ccnu.edu.cn/https://ieeexplore.ieee.org/author/37086292692) [Code](https://phy.ccnu.edu.cn/https://ieeexplore.ieee.org/author/37086292692)
             
 ## Recruitment in [CCNU](https://phy.ccnu.edu.cn)  
 
