@@ -10,4 +10,6 @@
 ## Research Interests
             *  MIMO Communications
             *  Wireless AI
+            *  Convex Optimization
+            
 
