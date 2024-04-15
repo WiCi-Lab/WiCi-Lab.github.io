@@ -9,12 +9,12 @@ Dr. Ji Wang, Ji Wang [M'15] (jiwang@ccnu.edu.cn) received the B.S. degree from t
 
 ## Research Interests
 
-            * MIMO Communications
-            * Wireless AI
-            * Convex Optimization
+* MIMO Communications
+* Wireless AI
+* Convex Optimization
 
 ## Publications in [IEEE](https://phy.ccnu.edu.cn/https://ieeexplore.ieee.org/author/37086292692)  
             
 ## Recruitment in [CCNU](https://phy.ccnu.edu.cn)  
 
-           Looking for competitive master/Ph.D. students, please refer to the CCNU official website for more details.
+Looking for competitive master/Ph.D. students, please refer to the CCNU official website for more details.
