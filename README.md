@@ -8,8 +8,8 @@
            Dr. Ji Wang
 
 ## Research Interests
-            *  MIMO Communications
-            *  Wireless AI
-            *  Convex Optimization
+            *           MIMO Communications
+            *           Wireless AI
+            *           Convex Optimization
             
 
