@@ -16,4 +16,4 @@
             
 ## Recruitment in [CCNU](https://phy.ccnu.edu.cn)  
 
-           Looking for competitive master/Ph.D. students, please refer to the CCNU Introduciton for more details.
+           Looking for competitive master/Ph.D. students, please refer to the CCNU official website for more details.
